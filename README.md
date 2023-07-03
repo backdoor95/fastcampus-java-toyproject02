@@ -50,12 +50,7 @@
 
 >### 문준호
 1. 테이블 설계 및 기능 별 쿼리 작성, ERD 
-2. BaseBallApplication 작성
-3. Team, stadium - model, service, dao, dto
-   1)
-5. pivot DB, PositionResponseDto
-   1)
-6. playerDao, playerService - 3.10 문제를 풀기위해 
+2. 
 ---
 ## - 기타
 - Controller가 과제 내용에 빠져있어서 일부러 빼고 만들었음.
